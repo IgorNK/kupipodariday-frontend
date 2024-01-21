@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kupipodariday-frontend/static/css/main.fc832271.css",
-    "main.js": "/kupipodariday-frontend/static/js/main.23b586fb.js",
+    "main.js": "/kupipodariday-frontend/static/js/main.7d3c1d12.js",
     "static/js/787.f12e234e.chunk.js": "/kupipodariday-frontend/static/js/787.f12e234e.chunk.js",
     "static/media/fashion.jpg": "/kupipodariday-frontend/static/media/fashion.2b195ec6b84e2e5f39c3.jpg",
     "static/media/witches.jpg": "/kupipodariday-frontend/static/media/witches.da09170c5a5654781478.jpg",
@@ -21,11 +21,11 @@
     "index.html": "/kupipodariday-frontend/index.html",
     "static/media/cancel.svg": "/kupipodariday-frontend/static/media/cancel.a57de2861c049525d493e3c3da95f150.svg",
     "main.fc832271.css.map": "/kupipodariday-frontend/static/css/main.fc832271.css.map",
-    "main.23b586fb.js.map": "/kupipodariday-frontend/static/js/main.23b586fb.js.map",
+    "main.7d3c1d12.js.map": "/kupipodariday-frontend/static/js/main.7d3c1d12.js.map",
     "787.f12e234e.chunk.js.map": "/kupipodariday-frontend/static/js/787.f12e234e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc832271.css",
-    "static/js/main.23b586fb.js"
+    "static/js/main.7d3c1d12.js"
   ]
 }
