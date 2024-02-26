@@ -1,4 +1,4 @@
-import { URL } from "./constants";
+import { API_HOST as URL } from "./constants";
 
 const checkResponse = (res) => {
   if (res.ok || res.created) {

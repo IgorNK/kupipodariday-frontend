@@ -1,4 +1,4 @@
-export const URL = "https://easy-pear-iguana-kit.cyclic.app:3000";
+export const { API_HOST = "https://api.kpd.igornk.nomoredomainswork.ru" } = process.env;
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
